@@ -8,6 +8,9 @@ React Native, Redux, Wix navigation
 * hoist-non-react-native-statics
 * redux-devtools-extension
 
+## yarn
+* yarn add hoist-non-react-statics redux-devtools-extension redux redux-thunk react-redux react-native-navigation@latest
+
 ##
 
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
