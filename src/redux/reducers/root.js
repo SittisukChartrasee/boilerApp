@@ -1,7 +1,7 @@
 import * as Types from '../rootTypes'
 
 const init = {
-  root: 'DEV'
+  root: undefined
 }
 
 export default (state = init, action) => {
