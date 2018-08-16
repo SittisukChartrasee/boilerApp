@@ -2,6 +2,7 @@
 Install React Native, Redux, Wix navigation and start application
 
 ### install
+* react-native-navigation
 * redux
 * redux-thunk
 * react-redux
